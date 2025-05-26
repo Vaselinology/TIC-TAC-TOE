@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1711904426 source:c:\users\inese\documents\bi\tic tac toe\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+	<time.h>
+	<ctype.h>
+	<windows.h>
+
